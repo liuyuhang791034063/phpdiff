@@ -36,11 +36,10 @@
 ## 功能演示
 
 ### json三种输出显示
-
-<img str="img/json_diff.png" height="70%" width="50%">
+<img src="img/json_diff.png" height="70%" width="50%" style="border:3px solid #000;" >
 
 ### 文本三种输出显示
-<img src="img/string_diff.png" height="70%" width="50%" >
+<img src="img/string_diff.png" height="70%" width="50%" style="border:3px solid #000;" >
 
 ## 引用
 [大佬的网址](http://code.iamkate.com/php/diff-implementation/)
