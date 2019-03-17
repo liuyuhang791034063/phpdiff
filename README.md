@@ -37,11 +37,10 @@
 
 ### json三种输出显示
 
-![](img/json_diff.png){:height="50%" width="50%"}
+<img str="img/json_diff.png" height="70%" width="50%">
 
 ### 文本三种输出显示
-
-![](img/string_diff.png){:height="50%" width="50%"}
+<img src="img/string_diff.png" height="70%" width="50%" >
 
 ## 引用
 [大佬的网址](http://code.iamkate.com/php/diff-implementation/)
