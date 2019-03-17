@@ -35,11 +35,11 @@
 
 ## 功能演示
 
-##### json三种输出显示
+### json三种输出显示
 
 ![](img/json_diff.png)
 
-##### 文本三种输出显示
+### 文本三种输出显示
 
 ![](img/string_diff.png)
 
